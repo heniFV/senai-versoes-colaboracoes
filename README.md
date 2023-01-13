@@ -1,4 +1,4 @@
 # senai-versoes-colaboracoes
 repositorio inicial
 
-Comentario aleatório
+Readme de exemplo.
